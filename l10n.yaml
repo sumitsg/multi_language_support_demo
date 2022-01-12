@@ -1,0 +1,6 @@
+# input file or transaltion file
+arb-dir: lib/l10n
+# template file
+template-arb-file: app_en.arb
+#output generated to show it translated data
+output-localization-file: app_localization.dart
